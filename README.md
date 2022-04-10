@@ -1,10 +1,21 @@
 ### Hi there 👋
+<!-- - 📝 My Resume:  -->
+- 🏫 I'm currently studying `Information and Communication Engineering` at [Inha University](https://www.inha.ac.kr/)
+- 🏢 I'm currently working on @[jamcoding](https://jamcoding.co.kr/)
+- 🌱 I’m currently learning `Natural Language Processing`, `Data Analysis`
+- 🤔 I'm interested in `Natural Language Processing`, `Machine Learning`, and `Deep Learning`
+- 📫 How to reach me
+  - 📧 E-mail : time@inha.edu
+  - 📘 [Linkedin](https://www.linkedin.com/in/dong-geon-lee-9a8647202/)
+  - 📝 [Blog](https://oneonlee.tistory.com/)
+<!-- - 🔭 I’m currently working on ... -->
+<!-- - 🌱 I’m currently learning ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 
-📭 time@inha.edu
-
-📘 [Linkedin](https://www.linkedin.com/in/dong-geon-lee-9a8647202/)
-
-📝 [Blog](https://oneonlee.tistory.com/)
 
 ---
 
@@ -31,7 +42,7 @@
 - 스파르타코딩클럽 "주식자동매매 종합반 4기" - [Certificated](https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/cert/img/new_cert_60a6cdd601c8e533c7ce81c7_5fdd5782922b59b9f312cdd6.jpg)
 - 스파르타코딩클럽 "이미지처리로 시작하는 딥러닝 20기" - [Repository](https://github.com/oneonlee/OpenCV-Python)
 - 스파르타코딩클럽 "iOS 앱개발 기초반 4기" - [Repository](https://github.com/oneonlee/Swift)
-- 인하대학교 수학과 소모임 MOD777 "딥러닝 논문 리뷰" (2021. 04 ~ 2021. 09)- [Repository](https://github.com/oneonlee/Deep-Learning-Paper-Review)
+- 인하대학교 수학과 소모임 MOD777 "딥러닝 논문 리뷰" (2021. 04 ~ 2021. 09) - [Repository](https://github.com/oneonlee/Deep-Learning-Paper-Review)
 - [2021 스마트 해상물류 ICT멘토링 프로젝트](https://www.hanium.or.kr/upload/b0cf7e50-16a7-4b85-95e5-7dd475688de4.jpg) "스마트 항만 교통관제 시스템(사람-항만-선박-컨테이너)[21_HP048]" (2021. 03 ~ 2021. 11)- [Certificated](https://user-images.githubusercontent.com/73745836/162604948-aaad2759-bf5a-4182-b4bf-0c6bac1602ea.jpg)
 - [2021 스마트 해상물류 경진대회](https://www.hanium.or.kr/portal/subscription/info.do?trackSeq=10) "어디라카고 (Where Cargo) <img width=1.5% alt="어디라카고" src="https://github.com/oneonlee/where-cargo/blob/main/frontend/src/logo-ver1.png?raw=true">  스마트 항만 주차정보시스템" (2021. 08 ~ 2021. 11) - [Repository](https://github.com/oneonlee/where-cargo)
 - [2021 스마트해상물류 한국정보처리학회 ICT멘토링 학술대회(ACK 2021)](https://www.hanium.or.kr/portal/noticeSmartBoard.do?unitedSeq=15147&articleSeq=55896) 참가 및 발표 - [Certificated](https://user-images.githubusercontent.com/73745836/162605031-1f6bc7ce-8f80-46ac-8753-aeca5e19edf5.jpg)
@@ -43,6 +54,8 @@
 - 인하대학교 2021-2 객체지향프로그래밍 2 인하튜터링 참여 (2021. 09 ~ 2021. 12)
   - 2021-2 인하튜터링 튜티 성적향상상 수상
   - 2021-2 인하튜터링 Great Teamwork상 수상
+- "객체지향프로그래밍 2" 수강 ([홍성은](https://sites.google.com/site/csehong/) 교수님) - [Repository](https://github.com/oneonlee/Computer-Science/tree/main/1.%20OOP)
+- "자료구조론" 수강 ([남창주](https://changjoonam.wixsite.com/airlab) 교수님) - [Repository](https://github.com/oneonlee/Computer-Science/tree/main/2.%20Data%20Structures)
   
 </details>
 
@@ -55,22 +68,6 @@
   - 01월 : "대학원생 때 알았더라면 좋았을 것들" - [Review](https://oneonlee.tistory.com/30?category=946741)
   - 02월 : "밑바닥부터 시작하는 딥러닝" - [Review](https://oneonlee.tistory.com/35?category=946741)
   - 03월 : "모두의 데이터분석 with 파이썬" - [Repository](https://github.com/oneonlee/Public-Data-Analysis), [Review](https://oneonlee.tistory.com/37?category=946741)
-  
+- "알고리즘 설계" 수강 ([최원익](http://dilab.inha.ac.kr/) 교수님) - [Repository](https://github.com/oneonlee/Computer-Science/tree/main/3.%20Algorithms)
+- "시스템 프로그래밍" 수강 (김기창 교수님) - [Repository](https://github.com/oneonlee/Computer-Science/tree/main/4.%20System%20Programming)
 </details>
-
-
-
-<!--
-**oneonlee/oneonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
