@@ -1,7 +1,8 @@
 ### Hi there 👋
 <!-- - 📝 My Resume:  -->
-- 🏫 I'm currently studying `Information and Communication Engineering` at [Inha University](https://www.inha.ac.kr/)
-- 🏢 I'm currently working on @[jamcoding](https://jamcoding.co.kr/)
+- 🏫 I'm currently studying `Information and Communication Engineering` at College of Engineering, [Inha University](https://www.inha.ac.kr/)
+- 🤔 I'm currently doing research on `Natural Language Processing in Health Care Big Data` at Nursing Informatics Labotory, College of Medicine, Inha University
+- 🏢 I'm currently teaching programming languages to students at [jamcoding](https://jamcoding.co.kr/)
 - 🌱 I’m currently learning `Natural Language Processing`, `Data Analysis`
 - 🤔 I'm interested in `Natural Language Processing`, `Machine Learning`, and `Deep Learning`
 - 📫 How to reach me
@@ -64,10 +65,11 @@
   <summary><strong>2022</strong></summary>
 
 - 인하대학교 간호정보학 연구실 (조인숙) 연구 과제 참여 "임상 빅데이터와 행동경제학 이론을 적용한 다면적 낙상예방 중재 개발과 다기관 효과 탐색" (2022. 01 ~ Present)
+- 의료분야 NLP 연구세미나 진행 - [Repository](https://github.com/oneonlee/NLP-Paper-Review)
 - 한 달에 한 권, 일 년 열두 권 독서하기 프로젝트 (2022. 01 ~ Present)
   - 01월 : "대학원생 때 알았더라면 좋았을 것들" - [Review](https://oneonlee.tistory.com/30?category=946741)
   - 02월 : "밑바닥부터 시작하는 딥러닝" - [Review](https://oneonlee.tistory.com/35?category=946741)
   - 03월 : "모두의 데이터분석 with 파이썬" - [Repository](https://github.com/oneonlee/Public-Data-Analysis), [Review](https://oneonlee.tistory.com/37?category=946741)
-- "알고리즘 설계" 수강 ([최원익](http://dilab.inha.ac.kr/) 교수님) - [Repository](https://github.com/oneonlee/Computer-Science/tree/main/3.%20Algorithms)
-- "시스템 프로그래밍" 수강 (김기창 교수님) - [Repository](https://github.com/oneonlee/Computer-Science/tree/main/4.%20System%20Programming)
+- "알고리즘 설계" 수강중 ([최원익](http://dilab.inha.ac.kr/) 교수님) - [Repository](https://github.com/oneonlee/Computer-Science/tree/main/3.%20Algorithms)
+- "시스템 프로그래밍" 수강중 (김기창 교수님) - [Repository](https://github.com/oneonlee/Computer-Science/tree/main/4.%20System%20Programming)
 </details>
