@@ -27,6 +27,7 @@
 - 생활코딩 "WEB2 - CSS" - [Review](https://oneonlee.tistory.com/8?category=938564)
 - 책 "[HTML5 웹 프로그래밍 입문](http://www.yes24.com/Product/Goods/76897377)" - [Repository](https://github.com/oneonlee/WEB-Programming-Practice)
 - 책 "인공지능 100점을 위한 파이썬 수학" - [Repository](https://github.com/oneonlee/Python-Math-for-AI)
+- SEOUL VR·AR EXPO 2020 참석 - [Confirmation](https://user-images.githubusercontent.com/73745836/163523674-e6d63699-bd62-4c35-86e1-6b887e510dd0.jpg)
 - 2020 제 4회 육군창업경진대회 참가 - [Review](https://oneonlee.tistory.com/3?category=938569)
 - 스파르타코딩클럽 "크리스마스 특집: 나홀로코딩" - [Certificated](https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/cert/img/5fd1cedae7b11d0865a27a78_5fdd5782922b59b9f312cdd6.jpg)
 - Nomad Coders "바닐라 JS로 크롬 앱 만들기" - [Certificated](https://nomadcoders.co/certs/f18c2de1-f57f-47d6-b548-f68c17f9b5ec), [Repository](https://github.com/oneonlee/Vanilla-JS), [Review](https://oneonlee.tistory.com/12?category=938565)
