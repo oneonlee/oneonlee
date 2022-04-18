@@ -65,12 +65,14 @@
 <details>
   <summary><strong>2022</strong></summary>
 
-- 인하대학교 간호정보학 연구실 (조인숙) 연구 과제 참여 "임상 빅데이터와 행동경제학 이론을 적용한 다면적 낙상예방 중재 개발과 다기관 효과 탐색" (2022. 01 ~ Present)
-- 의료분야 NLP 연구세미나 진행 - [Repository](https://github.com/oneonlee/NLP-Paper-Review)
-- 한 달에 한 권, 일 년 열두 권 독서하기 프로젝트 (2022. 01 ~ Present)
+- 인하대학교 간호정보학 연구실 (조인숙) 연구 과제 참여중 "임상 빅데이터와 행동경제학 이론을 적용한 다면적 낙상예방 중재 개발과 다기관 효과 탐색" (2022. 01 ~ Present)
+- 의료분야 NLP 연구세미나 진행중 - [Repository](https://github.com/oneonlee/NLP-Paper-Review)
+- 한 달에 한 권, 일 년 열두 권 독서하기 프로젝트 진행중 (2022. 01 ~ Present)
   - 01월 : "대학원생 때 알았더라면 좋았을 것들" - [Review](https://oneonlee.tistory.com/30?category=946741)
   - 02월 : "밑바닥부터 시작하는 딥러닝" - [Review](https://oneonlee.tistory.com/35?category=946741)
   - 03월 : "모두의 데이터분석 with 파이썬" - [Repository](https://github.com/oneonlee/Public-Data-Analysis), [Review](https://oneonlee.tistory.com/37?category=946741)
 - "알고리즘 설계" 수강중 ([최원익](http://dilab.inha.ac.kr/) 교수님) - [Repository](https://github.com/oneonlee/Computer-Science/tree/main/3.%20Algorithms)
 - "시스템 프로그래밍" 수강중 (김기창 교수님) - [Repository](https://github.com/oneonlee/Computer-Science/tree/main/4.%20System%20Programming)
-</details>
+- 한컴아카데미 주관 "딥러닝 이해" 수료 - [Certificated](https://user-images.githubusercontent.com/73745836/163787768-c1565a01-57f1-41e0-a436-44a214caaa38.jpg)
+- [인하대학교 디지털 혁신공유대학 미래자동차 사업단](http://fvt.inha.ac.kr/) 주관 "Amazon Web Services (AWS) 머신러닝" 수료 - [Certificated](https://user-images.githubusercontent.com/73745836/163787775-86eb9285-5eeb-4539-aed0-0fb977c102ff.jpg)
+  </details>
