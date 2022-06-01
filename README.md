@@ -35,8 +35,6 @@
   
 </details>
 
-  <br>
-
 ## Awards and Honors 🏆
 #### 2021년
 - [2021 스마트 해상물류 ICT멘토링 프로젝트](https://www.hanium.or.kr/upload/b0cf7e50-16a7-4b85-95e5-7dd475688de4.jpg) & [2021 스마트 해상물류 경진대회](https://www.hanium.or.kr/portal/subscription/info.do?trackSeq=10) **본선 진출** - "어디라카고 (Where Cargo) <img width=1.5% alt="어디라카고" src="https://github.com/oneonlee/where-cargo/blob/main/frontend/src/logo-ver1.png?raw=true">  스마트 항만 주차정보시스템" (2021. 08 ~ 2021. 11) - [Certificated](https://user-images.githubusercontent.com/73745836/162604948-aaad2759-bf5a-4182-b4bf-0c6bac1602ea.jpg), [Repository](https://github.com/oneonlee/where-cargo)
@@ -46,14 +44,12 @@
 - 인하대학교 2021-2 객체지향프로그래밍 2 인하튜터링 (2021. 09 ~ 2021. 12)
   - 2021-2 인하튜터링 튜티 성적향상상 수상
   - 2021-2 인하튜터링 Great Teamwork상 수상
-<br>
 
 ## Interest 🤔
 - Machine Learning
 - Deep Learning
 - Data Science
 - Natural Language Processing
-<br>
   
 ## Personal Projects 🧸
 <details>
