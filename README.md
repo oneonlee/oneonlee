@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/-Deep Learning-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Data Science-000000?style=flat"/></a>
 <br>
-<img src="https://img.shields.io/badge/-Korean Natural Language Processing-000000?style=flat"/></a>
+<img src="https://img.shields.io/badge/-Korean Language Processing-000000?style=flat"/></a>
+<img src="https://img.shields.io/badge/-Named Entity Recognition-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Text Classification-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Medical AI-000000?style=flat"/></a>
 
