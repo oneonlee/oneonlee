@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/-Machine Learning-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Deep Learning-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Data Science-000000?style=flat"/></a>
+<img src="https://img.shields.io/badge/-Data Visuallization-000000?style=flat"/></a>
 <br>
 <img src="https://img.shields.io/badge/-BERT-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Korean Language Processing-000000?style=flat"/></a>
@@ -24,8 +25,9 @@ Click the image to move my repository (or webpage)
 <!-- <img src="https://img.shields.io/badge/-Data Science-000000?style=flat"/></a> -->
 <!-- <img src="https://img.shields.io/badge/-Object Detection-000000?style=flat"/></a> -->
 <a href="https://github.com/oneonlee/Python" target="_blank"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a>
-<img src="https://img.shields.io/badge/-pandas-000000?style=flat&logo=pandas"/></a>
 <img src="https://img.shields.io/badge/-scikit learn-000000?style=flat&logo=scikit%2Dlearn"/></a>
+<a href="https://github.com/oneonlee/Public-Data-Analysis/tree/main/Analysis%20of%20COVID-19%20Data%20in%20Seoul" target="_blank"><img src="https://img.shields.io/badge/-pandas-000000?style=flat&logo=pandas"/></a>
+<a href="https://github.com/oneonlee/Public-Data-Analysis" target="_blank"><img src="https://img.shields.io/badge/-matplotlib-000000?style=flat"/></a>
 <a href="https://konlpy.org/en/latest/" target="_blank"><img src="https://img.shields.io/badge/-KoNLPy-000000?style=flat"/></a>
 <a href="https://github.com/oneonlee/OpenCV-Python" target="_blank"><img src="https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=OpenCV"/></a>
 <a href="https://github.com/oneonlee/where-cargo" target="_blank"><img src="https://img.shields.io/badge/-YOLO-000000?style=flat&logo=YOLO"/></a>
