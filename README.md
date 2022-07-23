@@ -32,22 +32,22 @@ Click the image to move my repository (or webpage)
 <a href="https://github.com/oneonlee/OpenCV-Python" target="_blank"><img src="https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=OpenCV"/></a>
 <a href="https://github.com/oneonlee/where-cargo" target="_blank"><img src="https://img.shields.io/badge/-YOLO-000000?style=flat&logo=YOLO"/></a>
 <br>
-<a href="https://github.com/oneonlee/Computer-Science/tree/main/4.%20System%20Programming" target="_blank"><img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux"/></a>
-<img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C"/></a>
-<a href="https://github.com/oneonlee/Computer-Science/tree/main/1.%20OOP" target="_blank"><img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B"/></a>
 <a href="https://github.com/oneonlee/WEB-Programming-Practice" target="_blank"><img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5"/></a>
 <a href="https://github.com/oneonlee/WEB-Programming-Practice" target="_blank"><img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3"/></a>
 <a href="https://sapphire-duchess-70c.notion.site/9241d8b531d44f06aea609dcb05893c1?v=6a90fa6c830f4aa3bbc4aedd5ddb7a82" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"/></a>
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask"/></a>
 <img src="https://img.shields.io/badge/-markdown-000000?style=flat&logo=markdown"/></a>
-
-
-<!-- <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask"/></a> -->
-<!-- <img src="https://img.shields.io/badge/-Object Oriented Programming-000000?style=flat"/></a> -->
+<br>
+<a href="https://github.com/oneonlee/Computer-Science/tree/main/4.%20System%20Programming" target="_blank"><img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux"/></a>
+<img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C"/></a>
+<a href="https://github.com/oneonlee/Computer-Science/tree/main/1.%20OOP" target="_blank"><img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B"/></a>
+<img src="https://img.shields.io/badge/-Raspberry Pi-000000?style=flat&logo=RaspberryPi"/></a>
+<img src="https://img.shields.io/badge/-Arudino-000000?style=flat&logo=Arduino"/></a>
 
 ---
 
 #### Feel free to connect with Me!
-
+<a href="mail:time@inha.edu" target="_blank"><img src="https://img.shields.io/badge/-Mail-000000?style=flat&logo=gmail&logoColor=white"/><a/>
 <a href="https://oneonlee.github.io/bio/" target="_blank"><img src="https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white"/><a/>
 <a href="https://www.instagram.com/lee.dong.geon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram&logoColor=white"/><a/>
 <a href="https://www.linkedin.com/in/dong-geon-lee-9a8647202/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=linkedin"/><a/>
