@@ -37,7 +37,7 @@ Click the image to move my repository (or webpage)
 <a href="https://github.com/oneonlee/Computer-Science/tree/main/1.%20OOP" target="_blank"><img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B"/></a>
 <a href="https://github.com/oneonlee/WEB-Programming-Practice" target="_blank"><img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5"/></a>
 <a href="https://github.com/oneonlee/WEB-Programming-Practice" target="_blank"><img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3"/></a>
-<a href="https://github.com/oneonlee/Vanilla-JS" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"/></a>
+<a href="https://sapphire-duchess-70c.notion.site/9241d8b531d44f06aea609dcb05893c1?v=6a90fa6c830f4aa3bbc4aedd5ddb7a82" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"/></a>
 <img src="https://img.shields.io/badge/-markdown-000000?style=flat&logo=markdown"/></a>
 
 
