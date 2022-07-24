@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/-Machine Learning-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Deep Learning-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Data Science-000000?style=flat"/></a>
-<img src="https://img.shields.io/badge/-Data Visuallization-000000?style=flat"/></a>
+<img src="https://img.shields.io/badge/-Data Visualization-000000?style=flat"/></a>
 <br>
 <img src="https://img.shields.io/badge/-BERT-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Korean Language Processing-000000?style=flat"/></a>
