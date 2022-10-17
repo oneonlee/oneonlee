@@ -29,10 +29,12 @@
 <a href="https://github.com/oneonlee/OpenCV-Python" target="_blank"><img src="https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=OpenCV"/></a>
 <br>
 <a href="https://github.com/oneonlee/Computer-Science/tree/main/4.%20System%20Programming" target="_blank"><img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux"/></a>
-<a href="https://sapphire-duchess-70c.notion.site/9241d8b531d44f06aea609dcb05893c1?v=6a90fa6c830f4aa3bbc4aedd5ddb7a82" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"/></a>
 <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C"/></a>
 <a href="https://github.com/oneonlee/Computer-Science/tree/main/1.%20OOP" target="_blank"><img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B"/></a>
 <img src="https://img.shields.io/badge/-Arudino-000000?style=flat&logo=Arduino"/></a>
+<br>
+<a href="https://sapphire-duchess-70c.notion.site/9241d8b531d44f06aea609dcb05893c1?v=6a90fa6c830f4aa3bbc4aedd5ddb7a82" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"/></a>
+<img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&logoColor=white"/>
 
 ---
 
