@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/-Data Science-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Data Visualization-000000?style=flat"/></a>
 <br>
-<img src="https://img.shields.io/badge/-BERT-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Korean Language Processing-000000?style=flat"/></a>
+<img src="https://img.shields.io/badge/-Fine%20Tuning%20Pre trained%20Method-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Text Classification-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Medical AI-000000?style=flat"/></a>
 
