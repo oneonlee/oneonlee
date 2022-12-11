@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/-BERT-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Korean Text Mining-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-AutoML-000000?style=flat"/></a>
+<img src="https://img.shields.io/badge/-DataBase System-000000?style=flat"/></a>
 
 
 ### Tech Stacks
