@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/-Named Entity Recognition-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Transformers-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-BERT-000000?style=flat"/></a>
-<img src="https://img.shields.io/badge/-Korean Text Mining-000000?style=flat"/></a>
+<img src="https://img.shields.io/badge/-Korean Text Processing-000000?style=flat"/></a>
 
 
 ### Tech Stacks
@@ -26,6 +26,7 @@
 
 <a href="https://github.com/oneonlee/Python" target="_blank"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a>
 <img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/>
+<a href="https://github.com/oneonlee/PyTorch-tutorial" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=PyTorch"/></a>
 <a href="https://konlpy.org/en/latest/" target="_blank"><img src="https://img.shields.io/badge/-KoNLPy-000000?style=flat"/></a>
 <a href="https://github.com/oneonlee/OpenCV-Python" target="_blank"><img src="https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=OpenCV"/></a>
 <br>
