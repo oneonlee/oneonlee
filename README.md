@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/-Korean Text Processing-000000?style=flat"/></a>
 
 ### Contact
-- **Email** time@inha.edu
+- **Email** time (AT) inha.edu
 
   
 <div align=right>
