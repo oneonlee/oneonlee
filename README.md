@@ -36,6 +36,9 @@
 
 ### Contact
 - **Email** time (AT) inha.edu
+- [**LinkedIn** <img width=1.5% src="https://logodix.com/logo/79569.png"/>](https://www.linkedin.com/in/dong-geon-lee/)
+
+
 
   
 <div align=right>
