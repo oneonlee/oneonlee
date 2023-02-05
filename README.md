@@ -15,27 +15,28 @@
 <a href="https://github.com/oneonlee/OpenCV-Python" target="_blank"><img src="https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=OpenCV"/></a>
 ###### Other Systems and Tools
 <a href="https://github.com/oneonlee/Computer-Science/tree/main/4.%20Database%20System" target="_blank"><img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=red"/>
 <a href="https://github.com/oneonlee/Computer-Science/tree/main/4.%20System%20Programming" target="_blank"><img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux"/></a>
 <img src="https://img.shields.io/badge/-Arudino-000000?style=flat&logo=Arduino"/>
-<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=red"/>
 <br>
-<img src="https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=Anaconda"/>
-<img src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter"/>
 <img src="https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter"/>
+<img src="https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=Anaconda"/>
 <img src="https://img.shields.io/badge/LaTeX-black?style=flat-square&logo=Latex&logoColor=purple"/> 
 
 ### Interest
 ###### Machine Learning & Deep Learning
-<img src="https://img.shields.io/badge/-Transformers-000000?style=flat"/></a>
+<img src="https://img.shields.io/badge/-Transformers based Models-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Data Science-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Computer Vision-000000?style=flat"/>
 ###### Natural Language Processing
 <img src="https://img.shields.io/badge/-BERT-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Named Entity Recognition-000000?style=flat"/></a>
+<img src="https://img.shields.io/badge/-Keyword Extraction-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Korean Text Processing-000000?style=flat"/></a>
 
 ### Contact
-- **Email** time (AT) inha.edu
+- **Email** : time @ inha.edu
 - [**LinkedIn** <img width=1.5% src="https://logodix.com/logo/79569.png"/>](https://www.linkedin.com/in/dong-geon-lee/)
 
 
