@@ -3,8 +3,8 @@
 ### Skills
 ###### Programming Languages
 <a href="https://github.com/oneonlee/Python" target="_blank"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a>
-<img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C"/>
 <a href="https://github.com/oneonlee/Computer-Science/tree/main/1.%20OOP" target="_blank"><img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B"/></a>
+<img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C"/>
 <a href="https://sapphire-duchess-70c.notion.site/9241d8b531d44f06aea609dcb05893c1?v=6a90fa6c830f4aa3bbc4aedd5ddb7a82" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"/></a>
 ###### Frameworks and Libraries
 <a href="https://github.com/oneonlee/PyTorch-tutorial" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=PyTorch"/></a>
