@@ -25,16 +25,18 @@
 <img src="https://img.shields.io/badge/LaTeX-black?style=flat-square&logo=Latex&logoColor=purple"/> 
 
 ### Interest
+
 ###### Machine Learning & Deep Learning
-<img src="https://img.shields.io/badge/-Semi Supervised Learning-000000?style=flat"/>
-<img src="https://img.shields.io/badge/-Model Optimization-000000?style=flat"/>
-<img src="https://img.shields.io/badge/-Transformers based Models-000000?style=flat"/></a>
-<img src="https://img.shields.io/badge/-Data Science-000000?style=flat"/></a>
+
+<img src="https://img.shields.io/badge/-Semi Supervised Learning-000000?style=flat"/> <img src="https://img.shields.io/badge/-Model Optimization-000000?style=flat"/>
+<img src="https://img.shields.io/badge/-Transformers based Models-000000?style=flat"/>
+<img src="https://img.shields.io/badge/-Data Science-000000?style=flat"/>
+
 ###### Natural Language Processing
-<img src="https://img.shields.io/badge/-Korean Text Processing-000000?style=flat"/></a>
-<img src="https://img.shields.io/badge/-BERT-000000?style=flat"/></a>
-<img src="https://img.shields.io/badge/-Keyphrase Extraction-000000?style=flat"/></a>
-<!-- <img src="https://img.shields.io/badge/-Named Entity Recognition-000000?style=flat"/></a> -->
+
+<img src="https://img.shields.io/badge/-Korean Text Processing-000000?style=flat"/><img src="https://img.shields.io/badge/-BERT-000000?style=flat"/>
+<img src="https://img.shields.io/badge/-Keyphrase Extraction-000000?style=flat"/>
+<!-- <img src="https://img.shields.io/badge/-Named Entity Recognition-000000?style=flat"/> -->
 
 ### Contact
 - **Email** : lee.dg.125 @ gmail.com
