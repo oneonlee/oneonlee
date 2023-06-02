@@ -26,14 +26,15 @@
 
 ### Interest
 ###### Machine Learning & Deep Learning
+<img src="https://img.shields.io/badge/-Semi Supervised Learning-000000?style=flat"/>
+<img src="https://img.shields.io/badge/-Model Optimization-000000?style=flat"/>
 <img src="https://img.shields.io/badge/-Transformers based Models-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Data Science-000000?style=flat"/></a>
-<img src="https://img.shields.io/badge/-Computer Vision-000000?style=flat"/>
 ###### Natural Language Processing
-<img src="https://img.shields.io/badge/-BERT-000000?style=flat"/></a>
-<img src="https://img.shields.io/badge/-Named Entity Recognition-000000?style=flat"/></a>
-<img src="https://img.shields.io/badge/-Keyword Extraction-000000?style=flat"/></a>
 <img src="https://img.shields.io/badge/-Korean Text Processing-000000?style=flat"/></a>
+<img src="https://img.shields.io/badge/-BERT-000000?style=flat"/></a>
+<img src="https://img.shields.io/badge/-Keyphrase Extraction-000000?style=flat"/></a>
+<!-- <img src="https://img.shields.io/badge/-Named Entity Recognition-000000?style=flat"/></a> -->
 
 ### Contact
 - **Email** : lee.dg.125 @ gmail.com
