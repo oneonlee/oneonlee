@@ -34,9 +34,8 @@
 
 ###### Natural Language Processing
 
-<img src="https://img.shields.io/badge/-Korean Text Processing-000000?style=flat"/>
-<img src="https://img.shields.io/badge/-BERT-000000?style=flat"/>
-<img src="https://img.shields.io/badge/-Keyphrase Extraction-000000?style=flat"/>
+<img src="https://img.shields.io/badge/-Korean Text Processing-000000?style=flat"/> <img src="https://img.shields.io/badge/-BERT-000000?style=flat"/> <img src="https://img.shields.io/badge/-Keyphrase Extraction-000000?style=flat"/>
+
 <!-- <img src="https://img.shields.io/badge/-Named Entity Recognition-000000?style=flat"/> -->
 
 ### Contact
