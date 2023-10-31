@@ -8,7 +8,7 @@
 
 <br>
 
-- 📚 I'm senior student at Inha University
+- 📚 I'm senior student at [Inha University](https://eng.inha.ac.kr/eng/index.do), South Korea
 - 🔭 I’m currently working at [Data Intelligence Laboratory](http://dilab.inha.ac.kr/) as a research intern
 - 🌱 I’m currently learning more on Large Language Models
 - 💬 Ask me about the NLP including **Korean Language Processing**
