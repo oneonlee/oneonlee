@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://oneonlee.github.io/my/CV.pdf">CV</a>  •
-  <a href="https://sites.google.com/view/dg-lee">Personal Website</a> •
+  <a href="https://donggeon.github.io">Personal Website</a> •
   <a href="https://www.linkedin.com/in/dong-geon-lee/">LinkedIn</a>ㅤ
 </p>
 
