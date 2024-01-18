@@ -9,11 +9,12 @@
 
 <br>
 
-- 📚 I'm senior student at [Inha University](https://eng.inha.ac.kr/eng/index.do), South Korea
-- 🌱 I’m currently learning more on **Large Language Models**
-- 💬 Ask me about the **Natural Language Processing** including Korean Language Processing
-- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dong-geon-lee/) or [E-mail](mailto:lee.dg.125@gmail.com)
-<!-- - 🔭 I’m currently working at [Data Intelligence Laboratory](http://dilab.inha.ac.kr/) as a research intern -->
+- 📚 I'm an M.S. student in [Data Intelligence (DI) Lab](https://sites.google.com/view/postechdi/), [Graduate School of Artificial Intelligence](https://ai.postech.ac.kr), [POSTECH](https://postech.ac.kr/eng/), South Korea, advised by [Prof. Hwanjo Yu](http://di.postech.ac.kr/hwanjoyu).
+- 👨‍🎓 I received my B.S. degree from the [Department of Information and Communication Engineering](https://eng.inha.ac.kr/eng/3590/subview..do?&enc=Zm5jdDF8QEB8JTJGZGVwYXJ0bWVudEludHJvJTJGZW5nJTJGNjMlMkYxODElMkZpbnRyb1ZpZXcuZG8lM0ZmbGFnJTNEJTI2), [Inha University](https://eng.inha.ac.kr/), South Korea.
+- 🌱 I’m currently learning more on **Large Language Models**.
+- 🧐 I'm interested in, but not limited to, Large Language Models, Natural Language Processing, and data-centric AI.
+- 💬 Ask me about the **Natural Language Processing** including Korean Language Processing.
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dong-geon-lee/) or [E-mail](mailto:lee.dg.125@gmail.com).
 
 <div align=right>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foneonlee%2Fhit-counter&count_bg=%231F367B&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
