@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  <a href="https://oneonlee.github.io/my/CV.pdf">CV</a>  •
-  <a href="https://donggeon.github.io">Personal Website</a> •
-  <a href="https://www.linkedin.com/in/dong-geon-lee/">LinkedIn</a>ㅤ
+  <a href="https://oneonlee.github.io/my/CV.pdf" style="color: inherit; text-decoration: none;">CV</a>  •
+  <a href="https://donggeon.github.io" style="color: inherit; text-decoration: none;">Personal Website</a> •
+  <a href="https://www.linkedin.com/in/dong-geon-lee/" style="color: #fff; text-decoration: none;">LinkedIn</a>ㅤ
 </p>
 
 <br>
