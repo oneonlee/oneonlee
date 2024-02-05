@@ -14,7 +14,7 @@
 - 🧐 My research interests are mainly in the field of Natural Language Processing (NLP) and Machine Learning (ML).
 - 💬 As a researcher in NLP, my ultimate goal is to make the world a better place using data and large language models (LLMs).
 - 👀 In particular, I am dedicated to (1) **Data-centric NLP**, (2) **In-Context Learning in LLMs**, and (3) **NLP for Korean**.
-- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dong-geon-lee/) or [E-mail](mailto:lee.dg.125@gmail.com).
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dong-geon-lee/) or [E-mail](mailto:dg.lee@postech.ac.kr).
 
 <div align=right>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foneonlee%2Fhit-counter&count_bg=%231F367B&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
