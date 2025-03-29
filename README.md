@@ -15,7 +15,3 @@
 - 💬 As a researcher in NLP, my ultimate goal is to make the world a better place using data and large language models (LLMs).
 - 👀 In particular, I am dedicated to (1) **Data-centric NLP**, (2) **Aligning LLMs/VLMs to build Trustworthy and Robust AI**, and (3) **RAG & Domain adaptation of LLMs for Domain-specific Question Answering**.
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dong-geon-lee/) or [E-mail](mailto:dg.lee@postech.ac.kr).
-
-<div align=right>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foneonlee%2Fhit-counter&count_bg=%231F367B&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
-</div>
